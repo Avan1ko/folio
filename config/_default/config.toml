@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://avan1ko.github.io/folio"
+baseurl = "https://avaniko.tech"
 languageCode = "en-us"
 title = "Hugo Theme Stack Starter"
 
